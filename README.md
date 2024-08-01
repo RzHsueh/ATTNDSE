@@ -1,2 +1,2 @@
 # AttentionDSE
-A repository focus on applying the attention in CPU dse
+A repository of the paper with Submission ID 67.
