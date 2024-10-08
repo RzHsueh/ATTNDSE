@@ -1,2 +1,2 @@
 # AttentionDSE
-A repository of the paper with Submission ID 67.
+The repository of the AttentionDSE.
